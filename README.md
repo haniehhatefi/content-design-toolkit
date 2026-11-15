@@ -72,3 +72,8 @@ The modules form a progression, but each is designed to function as a standalone
 **Guidance levels** — Documents in `02-ux-writing-standards/` label each piece of guidance as Rule (must be followed), Recommendation (should be followed in most cases), or Contextual (applies with judgement). These labels are marked inline throughout those documents.
 
 **Illustrative outputs** — Documents in `05-practical-experiments/` use outputs constructed to demonstrate specific aspects of the toolkit's methods, rather than outputs captured from actual model runs. These are labelled explicitly throughout: *Illustrative output — constructed to demonstrate [specific aspect].*
+<p align="center">
+  <img src="assets/content-design-toolkit-preview.png"
+       alt="Content Design Toolkit — six modules covering foundations, UX writing, AI content creation, AI workflows, practical experiments, and content quality evaluation"
+       width="100%">
+</p>
