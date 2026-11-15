@@ -1,4 +1,9 @@
 # Content Design Toolkit
+<p align="center">
+  <img src="assets/content-design-toolkit-preview.png"
+       alt="Content Design Toolkit — six modules covering foundations, UX writing, AI content creation, AI workflows, practical experiments, and content quality evaluation"
+       width="100%">
+</p>
 
 A structured resource for content designers and UX writers working with AI tools. The toolkit covers voice and content principles, UX writing standards, AI-assisted content creation, an AI content workflow, practical experiments, and content quality evaluation.
 
