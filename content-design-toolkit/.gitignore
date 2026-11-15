@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Python (if any tooling is added later)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Build output (if a site generator is added later)
+_site/
+dist/
+build/
