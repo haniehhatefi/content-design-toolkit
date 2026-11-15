@@ -77,3 +77,10 @@ The modules form a progression, but each is designed to function as a standalone
        alt="Content Design Toolkit — six modules covering foundations, UX writing, AI content creation, AI workflows, practical experiments, and content quality evaluation"
        width="100%">
 </p>
+# Content Design Toolkit
+
+**[📖 Read the Documentation](https://hani-1.gitbook.io/content-design-toolkit)**
+
+Explore the complete documentation, including the six toolkit modules, practical resources, workflows, and appendices.
+
+---
